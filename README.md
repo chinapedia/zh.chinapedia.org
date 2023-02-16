@@ -19,3 +19,5 @@
 <span class="mw-editsection-bracket"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[</font></font></span><a href="https://en.wikipedia.org/w/index.php?title=Anna_Sorokin&amp;section=9&amp;editintro=Template%3ABLP_editintro&amp;veaction=editsource" title="编辑部分：不可替代的代币"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑</font></font></a><span class="mw-editsection-bracket"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">]</font></font></span>
 </span>
 ```
+
+这个流程看起来繁琐，但是目前可能是利用自动化翻译生产中文内容最有效的方案，因为目前对HTML文档的机器翻译技术相对成熟。
