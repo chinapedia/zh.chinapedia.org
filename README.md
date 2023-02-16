@@ -10,3 +10,8 @@
 * 将清理后的 html 文件转换为 markdown。
 
 里面很多步骤可以尝试写脚本自动化。
+
+例如：页面清理过程中，可以用正则表达式将`部分编辑`的文字链接去掉。对应的 HTML 内容如下：
+```
+<span class="mw-editsection-bracket"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[</font></font></span><a href="https://en.wikipedia.org/w/index.php?title=Anna_Sorokin&amp;section=9&amp;editintro=Template%3ABLP_editintro&amp;veaction=editsource" title="编辑部分：不可替代的代币"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑</font></font></a><span class="mw-editsection-bracket"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">]</font></font></span>
+```
