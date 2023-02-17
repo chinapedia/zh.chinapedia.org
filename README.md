@@ -9,7 +9,7 @@
 以手动翻译英文维基百科为例。
 * 用翻译软件将英文词条翻译为中文，并将网页另存为 html 格式。
 * 页面内容提取、清理，如[html/安娜·索罗金.html](html/安娜·索罗金.html)。
-* 将清理后的 html 文件转换为 markdown，如[wiki/安娜·索罗金.md](wiki/安娜·索罗金.md)。
+* 使用[Pandoc](https://github.com/chinapedia/wikipedia.zh/blob/master/Page/Pandoc.md)v3.1 将清理后的 html 文件转换为 markdown，如[wiki/安娜·索罗金.md](wiki/安娜·索罗金.md)。
 
 里面很多步骤可以尝试写脚本自动化。
 
@@ -21,3 +21,4 @@
 ```
 
 这个流程看起来繁琐，但是目前可能是利用自动化翻译生产中文内容最有效的方案，因为目前对HTML文档的机器翻译技术相对成熟。
+
