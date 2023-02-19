@@ -6,4 +6,6 @@ sed -i '' "s|<span class=\"mw-editsection\"><span class=\"mw-editsection-bracket
 sed -Ei '' "s|<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">([^<]*)</font></font>|\1|g" $INPUT
 sed -i '' "s|<font style=\"vertical-align: inherit;\">||g" $INPUT
 sed -i '' "s|</font>||g" $INPUT
+sed -i '' "s|<i>||g" $INPUT
+sed -i '' "s|</i>||g" $INPUT
 pandoc -f html -t gfm $INPUT > wiki/安娜·索罗金.md
