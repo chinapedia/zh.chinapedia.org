@@ -20,7 +20,6 @@
 
 这个流程看起来繁琐，但是目前可能是利用自动化翻译生产中文内容最有效的方案，因为目前对HTML文档的机器翻译技术相对成熟。
 
-## TODO
+## 技术细节
 
-* Pandoc 对HTML table转换后忽略了`td`的`colspan`属性
-
+* Pandoc对HTML table转换后忽略了`td`的`colspan`属性，本项目的Pandoc[fork版本](https://github.com/chinapedia/pandoc)中修复了这个问题。
