@@ -60,6 +60,13 @@ GM命令主要可以通过两种方式输入。 要么直接在世界控制台�
 | `.learn all my class` | 学习所有天赋技能 |
 | `.tele dalaran` | 传送到达拉然 |
 
+各类纹章都算物品，可以用`.additem`命令增加：
+
+* 英雄纹章 40752
+* 寒冰纹章 49426
+* 勇气纹章 40753
+* 凯旋纹章 47241
+* 征服纹章 45624
 
 参考资料：
 * https://www.azerothcore.org/wiki/creating-accounts
