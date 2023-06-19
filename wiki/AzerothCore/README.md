@@ -1,4 +1,4 @@
-# acore_doc
+# AzerothCore
 AzerothCore 中文文档
 
 # 目录
