@@ -44,7 +44,7 @@ GM命令主要可以通过两种方式输入。 要么直接在世界控制台�
 
 # GM 命令列表
 * 官方文档：https://www.azerothcore.org/wiki/gm-commands
-* 中文机翻：https://docs.qq.com/sheet/DQVNmcENCdld6T1JE?tab=BB08J2
+* [中文翻译](../文档/GM命令.html)：https://docs.qq.com/sheet/DQVNmcENCdld6T1JE?tab=BB08J2
 
 # 常用GM举例
 
